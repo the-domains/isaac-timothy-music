@@ -1,0 +1,28 @@
+name: Isaac Timothy Music
+favicon: null
+layout_spectrum: 0.3400377465877682
+typography_spectrum: 0.8529376410879195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5258599624503404
+  lightness: 0.28109776764176786
+  saturation: 0.33102129958570004
+  rhythmicContrast: 0.16801088792271912
+purpose: []
